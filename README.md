@@ -83,6 +83,11 @@ Geekbyuing.com is leading E-Commerce web application which provides large range 
 - Biman Gharai
 - Nikesh Hiwraj Borkar
 - Rojalini Das
+
+## Blogg link
+
+- https://medium.com/@nikeshborkar008/functional-clone-of-geekbuying-e-commerce-website-4e6fa872e2ac
+
 ## Authors
 
-- [@Gautam Gohil](https://github.com/gautam6023)
+- [@Nikesh Borkar](https://github.com/NikeshBorkar)
